@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+catboost_info
+.DS_Store
 
 # C extensions
 *.so
